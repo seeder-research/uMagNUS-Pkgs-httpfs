@@ -1,2 +1,2 @@
 all:
-	go install -v
+	cd httpfs && go install -v
